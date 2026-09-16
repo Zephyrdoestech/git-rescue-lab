@@ -1,8 +1,8 @@
-\# Git Rescue Workflow
+# Git Rescue Workflow
 
 
 
-\## 1. Bisect Finding
+## 1. Bisect Finding
 
 
 
@@ -14,7 +14,7 @@ This commit broke the BULK20 discount by causing orders with 5 or more items to 
 
 
 
-\## 2. Branching Strategy
+## 2. Branching Strategy
 
 
 
@@ -22,7 +22,7 @@ For a team of 4, I would recommend GitHub Flow. It is simple and practical for a
 
 
 
-\## 3. Secret Removal
+## 3. Secret Removal
 
 
 
@@ -38,7 +38,7 @@ This assignment did not require fully rewriting the history because that step is
 
 
 
-\## 4. History Rewriting
+## 4. History Rewriting
 
 
 
